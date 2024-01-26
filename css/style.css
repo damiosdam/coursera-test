@@ -21,6 +21,11 @@ p {
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.headline {
+	width: 100%;
+	text-align: center;
+}
+
 .inside {
 	display: flow-root;
 	margin: 20px;
