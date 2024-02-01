@@ -1,0 +1,16 @@
+.row {
+	vertical-align: auto;
+}
+
+.menu {
+	background-color: beige;
+	padding-top: 20px;
+	padding-right: 30px;
+	padding-left: 30px;
+	margin: 30px;
+}
+
+.return {
+	text-align: center;
+	margin: 10px;
+}
